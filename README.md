@@ -1,6 +1,6 @@
 # Hello
 
-👩‍🦱 I'm Front-end Developer & Student!
+👩‍🦱 I'm FullStack Developer Student!
 
 👩‍💻 I'm a young boy focused on work and develop!
 
